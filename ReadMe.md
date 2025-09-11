@@ -1,3 +1,6 @@
 # Econ 1193
 Fall 2025, Arie Beresteanu
-(this is a fork)
+
+## Learning goals
+1. Python
+2. GitHub
