@@ -12,5 +12,18 @@
         "height_inches": 77,
         "author": false,
         "tv show": null
+    },
+    "alec": {
+        "full name": "Alec Bohm",
+        "other names": [
+            "Raffy",
+            "A-Beezy"
+        ],
+        "wikipedia":"https://en.wikipedia.org/wiki/Alec_Bohm",
+        "born": 1996,
+        "place of birth": "Omaha, Nebraska",
+        "height_inches": 77,
+        "author": false,
+        "tv show": null
     }
 }
