@@ -42,5 +42,20 @@
             "Known for aggressive racing strategies and accelerating in the final segment",
             "Broke the Chicago Marathon course record by almost 3 minutes"
         ]
-    }
+    },
+ "Taylor": {
+        "full name": "Taylor Alison Swift",
+        "other names": [
+            "Swifty",
+            "Tay Tay",
+            "TSwizzle"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+        "born": 1989,
+        "place of birth": "Reading, Pensylvania",
+        "height_inches": 69,
+        "author": false,
+        "tv show": null
+    }    
 }
+
