@@ -19,11 +19,28 @@
             "Raffy",
             "A-Beezy"
         ],
-        "wikipedia":"https://en.wikipedia.org/wiki/Alec_Bohm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alec_Bohm",
         "born": 1996,
         "place of birth": "Omaha, Nebraska",
         "height_inches": 77,
         "author": false,
         "tv show": null
+    },
+    "kelvin": {
+        "record_holder": "Kelvin Kiptum",
+        "nationality": "Kenya",
+        "world_record_time": "2:00:35",
+        "event": "2023 Chicago Marathon",
+        "date": "October 8, 2023",
+        "age_when_set": 23,
+        "previous_record_holder": "Eliud Kipchoge",
+        "previous_record_time": "2:01:09",
+        "improvement_over_previous_record": "34 seconds",
+        "notable_facts": [
+            "First athlete to officially break 2:01 in a record-eligible marathon",
+            "Won all three marathons he entered, each in under 2:02",
+            "Known for aggressive racing strategies and accelerating in the final segment",
+            "Broke the Chicago Marathon course record by almost 3 minutes"
+        ]
     }
 }
