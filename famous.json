@@ -13,4 +13,19 @@
         "author": false,
         "tv show": null
     }
+     "dricus": {
+        "full name": "Dricus Du Plessis",
+        "other names": [
+            "Stillknocks",
+            "DDP",
+            "Dricky Bobby"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Dricus_du_Plessis",
+        "born": 1994,
+        "home country": "South Africa",
+        "sport": "Mixed Martial Arts,
+        "knockout losses": null,
+        "world champion": true
+    }
+
 }
