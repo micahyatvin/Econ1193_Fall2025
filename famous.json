@@ -1,4 +1,13 @@
-{
+"holland": {
+    "full_name": "Tom Holland",
+    "born": 1996,
+    "place of birth": "United Kingdom",
+    "occupation": "actor",
+    "notable_works": ["Spider-Man: Homecoming", "Far From Home", "No Way Home", "Uncharted"],
+    "is_active": true,
+    "height_cm": 173,
+    "spouse": null
+},
     "dwayne": {
         "full name": "Dwayne Johnson",
         "other names": [
