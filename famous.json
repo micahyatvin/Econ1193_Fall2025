@@ -65,7 +65,24 @@
         "height_inches": 69,
         "author": false,
         "tv show": null
-    }    
+    },
+  "Lebron": {
+      "full name": "Lebron Raymone James",
+      "other names": [
+          "GOAT",
+          "Akron Hammer",
+          "Bron",
+          "23",
+          "L-Train",
+          "King James"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/LeBron_James",
+      "born": 1984,
+      "place of birth": "Akron, Ohio",
+      "height_inches": 81,
+      "author": false,
+      "tv show": "Spongebob Squarepants"
+  }
 }
 
 
