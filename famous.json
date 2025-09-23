@@ -96,8 +96,22 @@
         "author": false,
         "tv show": "The Idol",
         "spouse": null
+    },
+    "Dricus":{
+        "full name": "Dricus Du Plessis",
+        "other names":[
+            "DDP",
+            "Stillknocks"
+        ],
+        "born": 1991,
+        "sport": "mixed martial arts",
+        "champion": true,
+        "author": false,
+        "featherweight title defenses": null
     }
+        
 }
+
 
 
 
