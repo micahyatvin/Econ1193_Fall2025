@@ -83,8 +83,22 @@
       "height_inches": 81,
       "author": false,
       "tv show": "Spongebob Squarepants"
-  }
+  },
+    "abel": {
+        "full name": "Abel Makkonen Tesfaye",
+        "other names": [
+            "The Weeknd",
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Weeknd",
+        "born": 1990,
+        "place of birth": "Ontario, Canada",
+        "age": 35,
+        "author": false,
+        "tv show": "The Idol",
+        "spouse": null
+    }
 }
+
 
 
 
