@@ -96,8 +96,22 @@
         "author": false,
         "tv show": "The Idol",
         "spouse": null
+    },
+     "Dricus": {
+        "full name": "Dricus Du Plesssis",
+        "other names": [
+            "DDP",
+        ],
+        "born": 1991,
+        "champion": true,
+        "place of birth": "Pretoria, South Africa",
+        "Title defenses": 2,
+        "author": false,
+        "tv show": "The Masked Singer",
+        "spouse": null
     }
 }
+
 
 
 
